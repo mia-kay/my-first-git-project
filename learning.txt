@@ -1,0 +1,4 @@
+Some things I've learnt about git encompass the following:
+1. Git helps keep track of changes in your code so you can always go back to previous versions if needed.
+ 2. You can use commands like git add, git commit, and git push to save and upload your work to GitHub.
+ 3. Git makes it easy to collaborate with others on the same project without messing up each other’s code.
